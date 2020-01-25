@@ -1,0 +1,5 @@
+Options All -Indexes
+
+RewriteEngine On
+
+RewriteRule ^keluar?$ ./module/keluar/execute.php
